@@ -1,6 +1,6 @@
 # Hi there, I'm [Shadafi fastiyan] 👋
 
-![Profile Banner]!https://github.com/shadafifast/STRUKTUR-DATA-SEMESTER-2/blob/main/WhatsApp%20Image%202024-06-17%20at%2018.23.44.jpeg
+![Profile Banner]![https://github.com/shadafifast/STRUKTUR-DATA-SEMESTER-2/blob/main/WhatsApp%20Image%202024-06-17%20at%2018.23.44.jpeg](https://github.com/shadafifast/STRUKTUR-DATA-SEMESTER-2/blob/main/WhatsApp%20Image%202024-06-17%20at%2018.23.44.jpeg)
 
 
 ## About Me
