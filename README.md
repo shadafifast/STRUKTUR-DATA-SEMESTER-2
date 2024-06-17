@@ -1,3 +1,44 @@
+# Hi there, I'm [Shadafi fastiyan] 👋
+
+![Profile Banner](https://your-image-url.com/banner.png)
+
+## About Me
+
+I'm a passionate developer with experience in various technologies. My interests include:
+- 🌐 Web Development
+- 📱 Mobile App Development
+- 🧠 Machine Learning
+- 🔧 Open Source Projects
+
+I love to learn and share knowledge with the community.
+
+## Skills
+
+- **Languages**: Python, C++
+- **Web Development**: HTML, CSS, React, Node.js
+- **Database**: MySQL
+- **Tools**: Git, Docker, Jenkins
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+### [Project 1](https://github.com/shadafifast/STRUKTUR DATA SEMESTER 2)
+A brief description of your project and what it does. Highlight any technologies used..
+
+
+## Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Get Started with Open Source](https://yourblog.com/open-source)
+- [10 Tips for Learning JavaScript](https://yourblog.com/learning-javascript)
+- [Building a REST API with Node.js](https://yourblog.com/rest-api-nodejs)
+<!-- BLOG-POST-LIST:END -->
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on projects or just chat about tech.
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=yourusername.visitor-badge)
+
 # Kesimpulan Mata Kuliah Struktur Data
 
 ## 1. Pengantar Struktur Data
