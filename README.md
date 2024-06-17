@@ -1,6 +1,7 @@
 # Hi there, I'm [Shadafi fastiyan] 👋
 
-![Profile Banner](https://your-image-url.com/banner.png)
+![Profile Banner]![Uploading WhatsApp Image 2024-06-17 at 18.23.44.jpeg…]()
+
 
 ## About Me
 
