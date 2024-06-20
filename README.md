@@ -6,7 +6,7 @@
 
 
 ## 🌐 Social Media:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryan.zkr) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@azuragaksi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shadafifast/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@siapahayoool)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -20,22 +20,6 @@
 [![](https://visitcount.itsvg.in/api?id=QadrianZakhri&icon=0&color=6)](https://visitcount.itsvg.in)
 
 
-## About Me
-
-I'm a passionate developer with experience in various technologies. My interests include:
-- 🌐 Web Development
-- 📱 Mobile App Development
-- 🧠 Machine Learning
-- 🔧 Open Source Projects
-
-I love to learn and share knowledge with the community.
-
-## Skills
-
-- **Languages**: Python, C++
-- **Web Development**: HTML, CSS, React, Node.js
-- **Database**: MySQL
-- **Tools**: Git, Docker, Jenkins
 
 ## Projects
 
@@ -43,19 +27,6 @@ Here are some of the projects I've worked on:
 
 ### [Project 1](https://github.com/shadafifast/STRUKTUR DATA SEMESTER 2)
 A brief description of your project and what it does. Highlight any technologies used..
-
-
-## Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Get Started with Open Source](https://yourblog.com/open-source)
-- [10 Tips for Learning JavaScript](https://yourblog.com/learning-javascript)
-- [Building a REST API with Node.js](https://yourblog.com/rest-api-nodejs)
-<!-- BLOG-POST-LIST:END -->
-
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on projects or just chat about tech.
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=yourusername.visitor-badge)
 
 # Kesimpulan Mata Kuliah Struktur Data
 
